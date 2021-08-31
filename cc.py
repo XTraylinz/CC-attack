@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-#Coded by L330n123
+#Coded By Leeon123
+#Remake By Trayl1nz
 #########################################
 #         Just a little change          #
-#                           -- L330n123 #
+#                           -- Trayl1nz #
 #########################################
 import requests
 import socket
@@ -34,7 +35,7 @@ Version 3.6 (2020/12/19)
 │          [+] Changed Output                 │
 │          [+] Added Url Parser               │
 ├─────────────────────────────────────────────┤
-│ Link: https://github.com/Leeon123/CC-attack │
+│ Link: https://github.com/XTraylinz/CC-attack │
 └─────────────────────────────────────────────┘''')
 
 acceptall = [
@@ -723,4 +724,4 @@ def main():
 	
 
 if __name__ == "__main__":
-	main()#Coded by Leeon123
+	main()#Coded by Leeon123 [] Remake By Trayl1nz
